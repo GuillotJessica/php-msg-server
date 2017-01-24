@@ -1,0 +1,3 @@
+- Install composer
+- Install dependencies with "composer install"
+- Launch server with "php -S localhost:8888 router.php"
